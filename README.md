@@ -20,6 +20,7 @@ https://github.com/KhaiTPhan/Khai-Portfolio/blob/main/portfolio.PNG
 
 https://github.com/KhaiTPhan/Khai-Portfolio/blob/main/resume.PNG
 
+https://github.com/KhaiTPhan/Khai-Portfolio/blob/main/contact.PNG
 
 # Links
 
