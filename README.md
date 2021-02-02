@@ -16,3 +16,6 @@ This portfolio is to collate my journey as a developer and integrate with my car
 
 # Links
 
+Link to the deployed app:
+https://khaitphan.github.io/Khai-Portfolio/
+
