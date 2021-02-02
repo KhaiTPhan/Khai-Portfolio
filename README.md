@@ -13,6 +13,7 @@ This portfolio is to collate my journey as a developer and integrate with my car
 - GitHub
 
 # Screenshots
+https://github.com/KhaiTPhan/Khai-Portfolio/issues/1#issue-798963886
 
 https://github.com/KhaiTPhan/Khai-Portfolio/blob/main/index.PNG
 
