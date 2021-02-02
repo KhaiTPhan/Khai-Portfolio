@@ -1,10 +1,8 @@
 # Khai-Portfolio
 This portfolio is to collate my journey as a developer and integrate with my career path.
 
-# Motivation
 
-
-# Code
+# Technologies used
 
 - HTML
 - CSS
