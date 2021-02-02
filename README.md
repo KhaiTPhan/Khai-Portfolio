@@ -14,7 +14,8 @@ This portfolio is to collate my journey as a developer and integrate with my car
 
 # Screenshots
 
-index.PNG
+
+
 
 # Links
 
