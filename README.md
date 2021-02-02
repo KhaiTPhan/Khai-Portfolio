@@ -15,7 +15,11 @@ This portfolio is to collate my journey as a developer and integrate with my car
 # Screenshots
 
 https://github.com/KhaiTPhan/Khai-Portfolio/blob/main/index.PNG
+
 https://github.com/KhaiTPhan/Khai-Portfolio/blob/main/portfolio.PNG
+
+https://github.com/KhaiTPhan/Khai-Portfolio/blob/main/resume.PNG
+
 
 # Links
 
