@@ -14,7 +14,22 @@ Highlights a sample of applications completed as part of full stack web developm
 
 #### Technologies used
 
-* JavaScript,CSS,HTML,Node.JS,Inquirer,Jest,BootStrap,JQuery
+* JavaScript
+* CSS
+* HTML
+* Node.JS
+* Inquirer
+* Jest
+* BootStrap
+* JQuery
+* Express
+* Exress-Handlebars
+* MySQL
+* Sequelize
+* Git
+* GitHub
+* MongoDB
+* Heroku
 
 ## Table of contents
 
@@ -36,9 +51,6 @@ N/A
 
 ![Khai-Portfolio](khai-portfolio)
 
-Below is the link to the project URL.
-
-Project URL: KhaiTPhan
 
 ## Test instructions
 
