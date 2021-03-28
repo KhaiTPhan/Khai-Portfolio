@@ -1,27 +1,61 @@
 # Khai-Portfolio
-This portfolio is to collate my journey as a developer and integrate with my career path.
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-# Technologies used
+## Description
 
-- HTML
-- CSS
-- JavaScript
-- jQuery
-- Bootstrap
-- APIs
-- GitHub
+#### Motivation
 
-# Screenshots
+This portfolio is to collate my journey as a full stack web developer and have this integrated into my carerr path.
 
-![index](https://user-images.githubusercontent.com/74043730/106560458-291bc280-657b-11eb-9f4d-44ddc8ce6515.PNG)
-![portfolio](https://user-images.githubusercontent.com/74043730/106560529-451f6400-657b-11eb-8263-6f9781a9ea69.PNG)
-![resume](https://user-images.githubusercontent.com/74043730/106560629-6a13d700-657b-11eb-81bb-95efdb1cb067.PNG)
-![contact](https://user-images.githubusercontent.com/74043730/106560634-6d0ec780-657b-11eb-908a-8495c258c215.PNG)
+#### Key features
 
+Highlights a sample of applications completed as part of full stack web development course
 
-# Links
+#### Technologies used
 
-Link to the deployed app:
-https://khaitphan.github.io/Khai-Portfolio/
+* JavaScript,CSS,HTML,Node.JS,Inquirer,Jest,BootStrap,JQuery
 
+## Table of contents
+
+<!--ts-->
+* [Description](#Description)
+* [Installation](#Installation)
+* [Usage](#Usage)
+* [License](#License)
+* [Contributions](#Contributions)
+* [Test instructions](#Test-instructions)
+* [Questions](#Questions)
+<!--te-->
+
+## Installation
+
+N/A
+
+## Usage
+
+![Khai-Portfolio](khai-portfolio)
+
+Below is the link to the project URL.
+
+Project URL: KhaiTPhan
+
+## Test instructions
+
+N/A
+
+## License
+
+* MIT
+
+## Contributions
+
+Please email me at khai.phan.2007@gmail.com
+
+## Questions
+
+If you have any questions, please contact me at:
+
+GitHub URL: https://github.com/KhaiTPhan
+
+Email: khai.phan.2007@gmail.com
