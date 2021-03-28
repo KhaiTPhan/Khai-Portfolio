@@ -49,8 +49,14 @@ N/A
 
 ## Usage
 
-![Khai-Portfolio](khai-portfolio)
+Link to the app:
 
+https://khaitphan.github.io/Khai-Portfolio/
+
+![resume](https://user-images.githubusercontent.com/74043730/112743031-924e0e00-8fdf-11eb-81c9-0a0dc6d1712f.PNG)
+![index](https://user-images.githubusercontent.com/74043730/112743022-7e0a1100-8fdf-11eb-9e64-9464675f822c.PNG)
+![portfolio](https://user-images.githubusercontent.com/74043730/112743036-9712c200-8fdf-11eb-967a-c71c9b46da9c.PNG)
+![contact](https://user-images.githubusercontent.com/74043730/112743041-a265ed80-8fdf-11eb-8cf5-b0472d474394.PNG)
 
 ## Test instructions
 
